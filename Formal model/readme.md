@@ -1,6 +1,6 @@
 # HelloProcess: Formal Model (CSP-M)
 
-This directory contains the foundational **Communicating Sequential Processes (CSP)** formal specification for the minimal "Hello World" process. It provides a mathematical abstraction of a single independent thread of execution, isolating its behavioral logic from the low-level FreeRTOS task scheduling and C++ wrapper configurations (`CSProcess`).
+This directory contains the foundational **Communicating Sequential Processes (CSP)** formal specification for the minimal "Hello World" process. It provides a mathematical abstraction of a single independent thread of execution, isolating its behavioral logic from the low-level FreeRTOS task scheduling and C++ wrapper configurations (`CSProcess`). The model has been checked with [ProB](https://prob.hhu.de/).
 
 ## Model Overview
 
