@@ -1,6 +1,6 @@
 # CSP4CMSIS Hello World Demo for NUCLEO-G474RE
 
-A minimal demonstration of the **CSP (Communicating Sequential Processes)** library using CMSIS‑RTOS v2 on an STM32G474RE microcontroller. This project shows a single process that prints "Hello world" repeatedly – the simplest possible CSP network.
+A minimal demonstration of the **CSP (Communicating Sequential Processes)** library using CMSIS‑RTOS v2 on an STM32G474RE microcontroller. This project shows a single process that prints "Hello world" repeatedly – the simplest possible Communicating Sequential Processes (CSP) network. The corresponding formal CSP model can be found [here](https://github.com/OliverFaust/CSP4CMSIS-shake-detection-NUCLEO-F401RE-/tree/main/Formal%20model).
 
 ## Features
 
