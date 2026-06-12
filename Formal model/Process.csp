@@ -1,0 +1,6 @@
+-- process
+channel print
+
+HelloProcess =
+    print -> SKIP;
+    HelloProcessMAIN = SKIP
